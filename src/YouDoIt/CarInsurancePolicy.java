@@ -17,10 +17,10 @@ public class CarInsurancePolicy {
         residentCity = "Mayfield";
     }
     public CarInsurancePolicy(int num){
-        policyNumber = num;
-        numPayments = 2;
-        residentCity = "Mayfield";
-//        this(num,2, "Mayfield");
+//        policyNumber = num;
+//        numPayments = 2;
+//        residentCity = "Mayfield";
+            this(num,2, "Mayfield");
     }
     public void display(){
         System.out.println("Policy #" + policyNumber + ". " + numPayments + " payments annually" +
