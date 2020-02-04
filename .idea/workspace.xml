@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b18ebe69-f5ca-478b-a56f-5205197b413c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/TestBread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Debugging/DebuggingOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Die/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Die/GetDiceRolls.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/YouDoIt/CarInsurancePolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter4/YouDoIt/CarInsurancePolicy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/YouDoIt/CreatePolicies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter4/YouDoIt/CreatePolicies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter4/YouDoIt/DemoBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter4/YouDoIt/DemoBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Billing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Billing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TestBread">
+  <component name="RunManager" selected="Application.Die">
     <configuration name="CreatePolicies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="YouDoIt.CreatePolicies" />
       <module name="Chapter4" />
@@ -60,6 +54,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="YouDoIt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Die" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Die.Die" />
+      <module name="Chapter4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Die.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,9 +115,11 @@
       <item itemvalue="Application.DemoBlock" />
       <item itemvalue="Application.CreatePolicies" />
       <item itemvalue="Application.TestBread" />
+      <item itemvalue="Application.Die" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Die" />
         <item itemvalue="Application.TestBread" />
         <item itemvalue="Application.CreatePolicies" />
         <item itemvalue="Application.DemoBlock" />
@@ -134,22 +144,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="811" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580829414957" />
-    <state width="1340" height="265" key="GridCell.Tab.0.bottom" timestamp="1580838885942">
+    <state width="1340" height="265" key="GridCell.Tab.0.bottom" timestamp="1580843604569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580838885942" />
-    <state width="1340" height="265" key="GridCell.Tab.0.center" timestamp="1580838885942">
+    <state width="1340" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580843604569" />
+    <state width="1340" height="265" key="GridCell.Tab.0.center" timestamp="1580843604569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580838885942" />
-    <state width="1340" height="265" key="GridCell.Tab.0.left" timestamp="1580838885942">
+    <state width="1340" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580843604569" />
+    <state width="1340" height="265" key="GridCell.Tab.0.left" timestamp="1580843604569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580838885942" />
-    <state width="1340" height="265" key="GridCell.Tab.0.right" timestamp="1580838885942">
+    <state width="1340" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580843604569" />
+    <state width="1340" height="265" key="GridCell.Tab.0.right" timestamp="1580843604569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1340" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580838885942" />
+    <state width="1340" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580843604569" />
     <state x="661" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1580837351061">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
