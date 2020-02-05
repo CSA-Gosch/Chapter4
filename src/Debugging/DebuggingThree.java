@@ -17,9 +17,9 @@ public class DebuggingThree {
         System.out.print("  The volume of the second box is ");
         showVolume(box2);
     }
-    public static void showVolume(int aBox)
+    public static void showVolume(FixDebugBox aBox)
     {
-        double vol = aBox.getVolume(aBox);
+        double vol = aBox.getVolume(12, 10, 8);
         System.out.println(vol);
     }
 }
